@@ -1,2 +1,4 @@
 # ExerciciosJava
-Olá Caros, criei esse repositório referente á práticas dos exercícios em Java
+Olá Caros
+
+Criei esse repositório para práticas de codificação em Java do curso da Udemy
